@@ -1,3 +1,4 @@
-# Divent
+# Divent CIS357
+Mobile Application Development Project built alongside @michaelweir14
 ## Overview App's Usage
 The application’s purpose is to create events with people that desire to find a partner in order to participate in a certain event. Events range from sports, video games, meetings or conferences, and more. In a practical example, a user wants to play tennis at the GVSU courts and has no friends available. He/she will create an event about it: starting and ending time, how many people, and other requirements. After the creation, the event appears on the list of events view, and it will receive requests to join from other users. The event creator can either accept or refuse. The event creator can also browse other events while he/she waits for requests. If the user did not create an event, the user can just go through the list of events that are already created and request to join any of them.
